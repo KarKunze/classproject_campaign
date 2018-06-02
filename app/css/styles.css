@@ -22,7 +22,7 @@ a {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  text-shadow: 2px 2px; }
+  text-shadow: 2px 2px black; }
 
 .navbar-brand {
   margin-left: 50px; }
