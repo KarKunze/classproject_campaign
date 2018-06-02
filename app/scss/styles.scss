@@ -1,0 +1,73 @@
+h1 {
+  font-family: 'Merriweather', serif;
+}
+
+h5 {
+  font-family: 'Merriweather', serif;
+}
+
+p {
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+ul {
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+li {
+  font-family: 'Merriweather Sans', sans-serif;
+}
+a {
+  font-family: 'Merriweather', serif;
+}
+
+.navbar {
+  height: 120px;
+  background-image: url("../images/america-804300_1280.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-shadow: 2px 2px;
+}
+
+.navbar-brand {
+  margin-left: 50px;
+}
+
+// .nav-item a:visited {
+//     color: #000080 !important;
+//     font-weight: bold;
+// }
+
+.nav-item a:hover, {
+    font-weight: bolder;
+}
+
+// .nav-item li.active a {
+//     color: #000080 !important;
+//     font-weight: bold;
+// }
+
+body, html {
+    height: 100%;
+}
+
+.jumbotron {
+    margin-bottom:0px;
+    border-top-left-radius: 0px !important;
+    border-top-right-radius: 0px !important;
+    background-image: url("../images/buffy-the-vampire-slayer.jpg");
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+
+
+
+
+
+@import "node_modules/bootstrap/scss/bootstrap";
