@@ -1,7 +1,6 @@
 {
   "name": "campaign",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "directories": {
     "doc": "docs"
@@ -19,5 +18,15 @@
     "gulp-sass": "^4.0.1",
     "jquery": "^3.3.1",
     "popper.js": "^1.14.3"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarKunze/classproject_campaign.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KarKunze/classproject_campaign/issues"
+  },
+  "homepage": "https://github.com/KarKunze/classproject_campaign#readme",
+  "description": ""
 }
