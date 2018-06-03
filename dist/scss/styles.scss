@@ -32,7 +32,13 @@ a {
 }
 
 .navbar-brand {
-  margin-left: 50px;
+  margin-left: 5px;
+}
+
+ul.navbar-nav {
+  background-color: white;
+  opacity: 0.5;
+  font-weight: bold;
 }
 
 // .nav-item a:visited {
@@ -54,7 +60,7 @@ body, html {
 }
 
 .jumbotron {
-    margin-bottom:0px;
+    margin-bottom: 0px;
     border-top-left-radius: 0px !important;
     border-top-right-radius: 0px !important;
     background-image: url("../images/buffy-the-vampire-slayer.jpg");
