@@ -39,7 +39,7 @@ ul.navbar-nav {
   background-color: white;
   opacity: 0.5;
   font-weight: bold;
-  padding-right: 3px;
+  padding-right: 5px;
 }
 
 // .nav-item a:visited {
@@ -65,8 +65,8 @@ body, html {
     border-top-left-radius: 0px !important;
     border-top-right-radius: 0px !important;
     background-image: url("../images/buffy-the-vampire-slayer.jpg");
-    height: 400px;
-    background-position: center;
+    height: auto;
+    background-position: center right;
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
