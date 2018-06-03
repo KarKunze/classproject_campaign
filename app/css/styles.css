@@ -30,7 +30,8 @@ a {
 ul.navbar-nav {
   background-color: white;
   opacity: 0.5;
-  font-weight: bold; }
+  font-weight: bold;
+  padding-right: 3px; }
 
 .nav-item a:hover {
   font-weight: bolder; }
